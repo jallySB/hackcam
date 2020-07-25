@@ -1,6 +1,5 @@
 # Hack Kamera v1
-
-Wkwk :-) 
+install bahan
 
 pkg install git -y 
 
@@ -20,7 +19,7 @@ termux-setup-storage
 
 https://github.com/jallySB/hackcam
 
-
+Wkwk :-) 
 Ambil potret webcam dari target hanya dengan mengirim tautan jahat
 
 
