@@ -1,5 +1,7 @@
 # Hack Kamera v1
-Wkwk :-)
+
+Wkwk :-) 
+
 pkg install git -y 
 
 pkg install openssh -y 
